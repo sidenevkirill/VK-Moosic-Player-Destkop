@@ -1,6 +1,6 @@
 # VK-Moosic-Player-Destkop
 
-VKMusic Player Destkop
+VKMusic Player
       
 <img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/refs/heads/master/img/screen.png" alt="Screenshot 1" height="700">
 
