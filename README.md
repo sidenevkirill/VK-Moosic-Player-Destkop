@@ -1,4 +1,4 @@
-# VK-Moosic-Player-Destkop-Windows
+# VK-Moosic-Player-Windows
       
 <img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/refs/heads/master/img/screen.png" alt="Screenshot 1" height="700">
 
